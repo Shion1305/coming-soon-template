@@ -64,10 +64,9 @@ const props = defineProps({
   }
   25% {
     transform: scale(1, 1) translateY(0);
-
-    100% {
-      transform: scale(1, 1) translateY(0);
-    }
+  }
+  100% {
+    transform: scale(1, 1) translateY(0);
   }
 }
 
