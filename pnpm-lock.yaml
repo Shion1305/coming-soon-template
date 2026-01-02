@@ -55,7 +55,7 @@ importers:
         specifier: ^8.57.1
         version: 8.57.1
       eslint-plugin-vue:
-        specifier: ^9.31.0
+        specifier: ^9.33.0
         version: 9.33.0(eslint@8.57.1)
 
 packages:
